@@ -38,9 +38,9 @@ The structure of the main code is given below
     * `pack` organized widget in block
 
 # Run
-To run this project
+To run this project, go to `src` folder and run below command,
 ```
 python main.py
 ```
 it will shows picture like below
-![Image]()
+![Image](https://github.com/princexoleo/Youtube_Video_Downloader_and_Coverter_/blob/main/img/home.png)
