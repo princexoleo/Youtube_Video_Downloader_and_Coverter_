@@ -20,15 +20,9 @@ The structure of the main code is given below
     ```
     import tkinter as tk
     from pytube import YouTube
-
     ```
-2. Creating a window 
-    ```
-    window = tk.Tk()
-    window.title("Youtube Video Downloader")
-    window.geometry("500x500")
-    window.resizable(0,0)
-    ```
+2. `Tkinter` information
+ 
     * `TK()` : is used to initialized the tkinter to create a display
     * `geometry` : is used to set the window width and height
     * `resizable` : set the fix size of window.
@@ -42,3 +36,11 @@ The structure of the main code is given below
     * `text` which we display the title of the label
     * `font` in which our text is written
     * `pack` organized widget in block
+
+# Run
+To run this project
+```
+python main.py
+```
+it will shows picture like below
+![Image]()
